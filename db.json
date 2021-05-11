@@ -1,0 +1,100 @@
+{
+
+    "users": [
+  
+      {
+  
+        "id": 1,
+  
+        "name": "Sam"
+  
+      },
+  
+      {
+  
+        "id": 2,
+  
+        "name": "Mat"
+  
+      },
+  
+      {
+  
+        "id": 3,
+  
+        "name": "Bob"
+  
+      },
+  
+      {
+  
+        "id": 4,
+  
+        "name": "Ross"
+  
+      },
+  
+      {
+  
+        "name": "Julia",
+  
+        "id": 5
+  
+      }
+  
+    ],
+  
+    "articles": [
+  
+      {
+  
+        "id": 1,
+  
+        "title": "Global Warming",
+  
+        "userId": 1
+  
+      },
+  
+      {
+  
+        "id": 2,
+  
+        "title": "Christmas decorations",
+  
+        "userId": 2
+  
+      },
+  
+      {
+  
+        "id": 3,
+  
+        "title": "Vegan cooking",
+  
+        "userId": 1
+  
+      },
+  
+      {
+  
+        "id": 4,
+  
+        "title": "Living in a small town",
+  
+        "userId": 3
+  
+      },
+  
+      {
+  
+        "id": 5,
+  
+        "title": "Running your local server",
+  
+        "userId": 4
+  
+      }
+
+    ]
+  }
